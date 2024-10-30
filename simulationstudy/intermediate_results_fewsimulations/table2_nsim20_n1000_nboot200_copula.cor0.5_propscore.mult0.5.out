@@ -1,0 +1,6 @@
+"naive" "sand" "boot" "naive.mcse" "sand.mcse" "boot.mcse"
+"beta1" 1 1 1 0 0 0
+"beta2" 0.95 0.95 0.95 0.049 0.049 0.049
+"beta3" 0.1 1 0.95 0.067 0 0.049
+"beta4" 1 1 1 0 0 0
+"beta5" 0.95 0.95 1 0.049 0.049 0
